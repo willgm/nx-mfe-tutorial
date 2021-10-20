@@ -40,6 +40,9 @@
     "login-e2e": {
       "tags": [],
       "implicitDependencies": ["login"]
+    },
+    "shared-data-access-user": {
+      "tags": []
     }
   }
 }
