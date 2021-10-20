@@ -33,6 +33,13 @@
     "dashboard-e2e": {
       "tags": [],
       "implicitDependencies": ["dashboard"]
+    },
+    "login": {
+      "tags": []
+    },
+    "login-e2e": {
+      "tags": [],
+      "implicitDependencies": ["login"]
     }
   }
 }
